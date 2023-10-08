@@ -5,8 +5,18 @@
 	min-height: 70px;
 }
 
+body {
+	font-family:"Helvetica,Arial,sans-serif";
+}
 
+ul {
+    margin-top: 1em;
+    margin-bottom: 1em;
+    margin-right: 0px;
+    margin-left: 0px;
+    padding: 40px;
 
+}
 
 
 
