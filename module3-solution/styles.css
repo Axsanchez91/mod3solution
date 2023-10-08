@@ -7,10 +7,15 @@
 
 body {
 	font-family:"Helvetica,Arial,sans-serif";
+	background-color: teal;
 }
 
 div {
     display: block;
+}
+
+h1 {
+	overflow: hidden;
 }
 
 .container {
@@ -35,7 +40,9 @@ ul {
     overflow: hidden;
 }
 
-
+button {
+	float: right;
+}
 
 
 
